@@ -224,8 +224,8 @@ def start(update: Update, context: CallbackContext):
                         ],
                         [
                             InlineKeyboardButton(
-                                text="Support Group🌿",
-                                url="https://t.me/AiGmChat",
+                                text="Updates Channel 🎻",
+                                url="https://t.me/AiGroupManager",
                             ),
                         ],
                     ],
