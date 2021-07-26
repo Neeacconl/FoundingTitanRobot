@@ -77,7 +77,7 @@ Built by weebs for weebs, I specialize in managing Groups and Big eccentric comm
 """
 
 HELP_STRINGS = """
-Hello there! My name is *{}*.
+Hello there!. My name is *{}*.
 I am a bot that wants You To Know That Those Who Do Not Understand True Pain Can Never Understand True Peace. I help admins manage their groups with Full power! Have a look at the following for an idea of some of \
 the things I can help you with.
 
