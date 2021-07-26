@@ -14,7 +14,7 @@ from pyrogram.types import ChatPermissions, InlineKeyboardButton, InlineKeyboard
 
 from LaylaRobot import DRAGONS as SUDO_USERS
 from LaylaRobot import pbot
-from LaylaRobot.modules.sql_extended import forceSubscribe_sql as sql
+from LaylaRobot.module.sql_extended import forceSubscribe_sql as sql
 
 logging.basicConfig(level=logging.INFO)
 
