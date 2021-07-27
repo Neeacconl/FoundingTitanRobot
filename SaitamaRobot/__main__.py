@@ -73,11 +73,11 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """
 Hello,Telegram User {}, I'm {}!
 I am an Advanced group management bot.
-Built by weebs for weebs, I specialize in managing Groups and Big eccentric communities,Do /help to see all commands!
+Built by weebs for weebs, I specialize in managing Groups and Big eccentric communities,see all commands for help.!
 """
 
 HELP_STRINGS = """
-Hello there!. My name is *{}*.
+Hello there! My name is *{}*.
 I am a bot that wants You To Know That Those Who Do Not Understand True Pain Can Never Understand True Peace. I help admins manage their groups with Full power! Have a look at the following for an idea of some of \
 the things I can help you with.
 
