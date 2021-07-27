@@ -71,7 +71,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hello,Telegram User {}, I'm {}!
+Hello,Astro User {}, I'm {}!
 I am an Advanced group management bot.
 Built by weebs for weebs, I specialize in managing Groups and Big eccentric communities,see all commands for help.!
 """
