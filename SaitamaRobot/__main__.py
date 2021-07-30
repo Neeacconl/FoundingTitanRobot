@@ -240,13 +240,13 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="🛠 Commands",
-                                url="https://t.me/Astroupdatebot?start=help",
+                                url="http://t.me/AiGroupManagerBot?start=help",
                             ),
                             InlineKeyboardButton(
                                 text="Support 📞",
                                 url="http://t.me/AstroSupportRobot",
                             ),
-                        ],
+                       
                         [
                             InlineKeyboardButton(
                                 text="Donations 💞",
