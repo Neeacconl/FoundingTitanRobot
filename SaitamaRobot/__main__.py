@@ -73,12 +73,12 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """
 👋 *Hello* {}!.
 
-*Astro* is a bot that allows you to easily and quickly check the group with multiple commands and functions.
+*Astro* is a bot that allows you to easily and quickly check the group with *multiple commands and functions*.
 
 ❓ *How does it work?*.
-Type */help* or press the » *🛠 Commands button below to view the entire command list*.
+Type */help* or press the » *🛠 Commands button below to view the entire command list*You need to make *bot admin to work*.
 
-❗️ If you need help with the bot, contact the staff using the bot support or by joining the *official group*.
+❗️ *If you need help with the bot, contact the staff using the bot support* or by joining the *official group*.
 """
 
 HELP_STRINGS = """
@@ -221,7 +221,7 @@ def start(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                text="➕ Add Nagato To Your Group",
+                                text="➕ Add Me To Your Group",
                                 url="t.me/{}?startgroup=true".format(
                                     context.bot.username,
                                 ),
@@ -243,14 +243,14 @@ def start(update: Update, context: CallbackContext):
                                 url="https://t.me/Astroupdatebot?start=help",
                             ),
                             InlineKeyboardButton(
-                                text="🤖 Source code",
-                                url="https://github.com/sasukeuchiha912/FoundingTitanRobot",
+                                text="Support 📞",
+                                url="http://t.me/AstroSupportRobot",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
                                 text="Donations 💞",
-                                url="https://t.me/otaku_regiment/",
+                                url="http://t.me/CollectDonationBot",
                             ),
                         ],
                     ],
