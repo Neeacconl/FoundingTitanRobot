@@ -224,12 +224,12 @@ def start(update: Update, context: CallbackContext):
                         ],
                         [
                             InlineKeyboardButton(
-                                text="🚑 Support",
+                                text="👥 Group",
                                 url=f"https://t.me/{SUPPORT_CHAT}",
                             ),
                             InlineKeyboardButton(
-                                text="🔔 Updates",
-                                url="https://t.me/foundingtitanupdates/",
+                                text="📣 Channel",
+                                url="https://t.me/AstroUpdateEnglish",
                             ),
                         ],
                         [
