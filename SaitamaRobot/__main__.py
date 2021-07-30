@@ -234,8 +234,8 @@ def start(update: Update, context: CallbackContext):
                         ],
                         [
                             InlineKeyboardButton(
-                                text="📕 Getting Started",
-                                url="https://t.me/foundingtitanupdates/4",
+                                text="🛠 Commands",
+                                url="https://t.me/{}?start=help",
                             ),
                             InlineKeyboardButton(
                                 text="🤖 Source code",
