@@ -246,7 +246,7 @@ def start(update: Update, context: CallbackContext):
                                 text="Support 📞",
                                 url="http://t.me/AstroSupportRobot",
                             ),
-                       
+                        ],
                         [
                             InlineKeyboardButton(
                                 text="Donations 💞",
