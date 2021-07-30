@@ -71,9 +71,9 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hello,Telegram User {}, I'm {}!
-I am an Advanced group management bot.
-Built by weebs for weebs, I specialize in managing Groups and Big eccentric communities,Do /help to see all commands!
+Hello • {name}
+This bot was reserved for the group by @JulioFZ.
+You can use this bot in your group, to be able to help you manage groups with several functions that are already available.
 """
 
 HELP_STRINGS = """
@@ -97,7 +97,7 @@ And the following:
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n",
 )
 
-SAITAMA_IMG = "https://telegra.ph/file/9127957b0437ed3a64332.jpg"
+SAITAMA_IMG ="Dontwant"
 
 DONATE_STRING = """Well, No Need To Donate."""
 
@@ -224,8 +224,8 @@ def start(update: Update, context: CallbackContext):
                         ],
                         [
                             InlineKeyboardButton(
-                                text="Updates Channel 🎻",
-                                url="https://t.me/AiGroupManager",
+                                text="Help❓",
+                                url="http://t.me/TheSecurityGrpBot?start=help",
                             ),
                         ],
                     ],
