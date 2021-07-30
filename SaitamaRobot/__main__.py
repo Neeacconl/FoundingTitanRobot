@@ -71,9 +71,11 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hello,Telegram User {}, I'm {}!
-I am an Anime themed group management bot.
-Built by weebs for weebs, I specialize in managing anime eccentric communities,Do /help to see all commands!
+👋 Hello Waste (〃＾▽＾〃)o 🇮🇳!.
+DC Checker is a bot that allows you to easily and quickly check the DC of users with multiple commands and functions.
+❓ How does it work?.
+Type /help or press the » 🛠 Commands button below to view the entire command list.
+❗️ If you need help with the bot, contact the staff using the bot support or by joining the official group.
 """
 
 HELP_STRINGS = """
@@ -244,7 +246,7 @@ def start(update: Update, context: CallbackContext):
                         ],
                         [
                             InlineKeyboardButton(
-                                text="☠️ Anime Chat Group",
+                                text="Donations 💞",
                                 url="https://t.me/otaku_regiment/",
                             ),
                         ],
