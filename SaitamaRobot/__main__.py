@@ -97,7 +97,7 @@ And the following:
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n",
 )
 
-SAITAMA_IMG = "https://telegra.ph/file/9127957b0437ed3a64332.jpg"
+SAITAMA_IMG = "photo"
 
 DONATE_STRING = """Well, No Need To Donate."""
 
