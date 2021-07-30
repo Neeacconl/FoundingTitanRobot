@@ -235,7 +235,7 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="🛠 Commands",
-                                url="https://t.me/{}?start=help",
+                                url="https://t.me/Astroupdatebot?start=help",
                             ),
                             InlineKeyboardButton(
                                 text="🤖 Source code",
