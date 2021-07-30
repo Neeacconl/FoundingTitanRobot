@@ -73,9 +73,11 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """
 👋 Hello {}!.
 
-DC Checker is a bot that allows you to easily and quickly check the DC of users with multiple commands and functions.
+(DC Checker)is a bot that allows you to easily and quickly check the DC of users with multiple commands and functions.
+
 ❓ How does it work?.
 Type /help or press the » 🛠 Commands button below to view the entire command list.
+
 ❗️ If you need help with the bot, contact the staff using the bot support or by joining the official group.
 """
 
