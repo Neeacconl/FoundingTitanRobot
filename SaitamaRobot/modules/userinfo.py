@@ -306,7 +306,7 @@ def info(update: Update, context: CallbackContext):
         disaster_level_present = True
 
     if disaster_level_present:
-        text += ' [<a href="https://t.me/NagatoUzumakiRobotUpdates/6">?</a>]'.format(
+        text += ' [<a href="https://t.me/AiGroupManager/6">?</a>]'.format(
             bot.username,
         )
 
@@ -562,7 +562,7 @@ dispatcher.add_handler(GET_BIO_HANDLER)
 dispatcher.add_handler(SET_ABOUT_HANDLER)
 dispatcher.add_handler(GET_ABOUT_HANDLER)
 
-__mod_name__ = "Info"
+__mod_name__ = "Hp System"
 __command_list__ = ["setbio", "bio", "setme", "me", "info"]
 __handlers__ = [
     ID_HANDLER,
