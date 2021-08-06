@@ -1,6 +1,6 @@
 {
-      "name": "FoundingTitanRobot",
-      "description": "An Anime themed Telegram group management bot.",
+      "name": "Astro",
+      "description": "An Astro themed Telegram group management bot.",
       "keywords": [
          "telegram",
          "anime",
@@ -8,8 +8,8 @@
          "manager",
          "Eren"
       ],   
-  "logo":    "https://telegra.ph/file/ed5b77b9aa323a3abd08e.jpg",
- "repository": "https://github.com/sasukeuchiha912/ErenJaegerRobot",
+  "logo":    "https://telegra.ph/file/cad899f4b970fb0f21283.jpg",
+ "repository": "https://t.me/aigroupmanagerBot",
    "addons": [
       {
          "options": {
@@ -20,7 +20,7 @@
    ],
    "env": {
       "TOKEN": {
-         "description": "Your bot token. Get one from @BotFather duh",
+         "description": "Your bot token. Get one from @BotFather bro",
          "required": true,
          "value": ""
       },
@@ -46,12 +46,12 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "ihaveenoughhate"
+         "value": "astro"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to saitama support than consider you made an enemy.",
          "required": true,
-         "value": "foundingtitansupport"
+         "value": "yours"
       },
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
