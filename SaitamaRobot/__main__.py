@@ -71,14 +71,14 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-👋 *Hello* {}!.
+👋 *Hallo* {}!.
 
-*Astro* is a bot that allows you to easily and quickly Manage the group with *multiple commands and functions*.
+*Astro* ist ein Bot, der es dir ermöglicht, deine Gruppe mit *vielfältigen Befehlen und Funktionen* einfach und schnell zu verwalten.
 
-❓ *How does it work?*.
-Type */help* or press the » *🛠 Commands button below to view the entire command list. *You need to make *bot admin to work*.
+❓ *Wie funktioniert der Bot?*.
+Sende */help* oder drücke den »*🛠 Befehle*« Button unten, um die *gesamte Befehlsliste* zu sehen. Der Bot funktioniert nur, wenn du ihn zum *Admin* befördert hast.
 
-❗️ *If you need help with the bot, contact the staff using the bot support* or by joining the *official group*.
+❗️ Wenn du *Hilfe mit dem Bot* brauchst, kontaktiere die *Mitarbeiter des Bot-Supportes* über den »*📞 Support*« Button unten oder indem du der *offiziellen Gruppe* beitrittst.
 """
 
 HELP_STRINGS = """
