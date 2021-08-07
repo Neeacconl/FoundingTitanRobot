@@ -100,7 +100,7 @@ Ich helfe Administratoren, ihre Gruppen mit viel Zauberei zu verwalten! Sieh dir
 And the following:
 """.format(
     dispatcher.bot.first_name,
-    "" if not ALLOW_EXCL else "\nAlle Befehle können entweder mit / oder ! verwendet werden.",
+    "" if not ALLOW_EXCL else "\nAlle Befehle können entweder mit / oder ! verwendet werden",
 )
 
 SAITAMA_IMG = "https://telegra.ph/file/cad899f4b970fb0f21283.jpg"
