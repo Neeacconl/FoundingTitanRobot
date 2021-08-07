@@ -221,7 +221,7 @@ def start(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                text="➕ Add Me To Your Group",
+                                text="➕ Einer Gruppe hinzufügen",
                                 url="t.me/{}?startgroup=true".format(
                                     context.bot.username,
                                 ),
@@ -229,27 +229,27 @@ def start(update: Update, context: CallbackContext):
                         ],
                         [
                             InlineKeyboardButton(
-                                text="👥 Group",
+                                text="👥 Gruppe",
                                 url=f"https://t.me/{SUPPORT_CHAT}",
                             ),
                             InlineKeyboardButton(
-                                text="📣 Channel",
+                                text="📣 Kanal",
                                 url="https://t.me/AstroUpdateEnglish",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
-                                text="🛠 Commands",
+                                text="🛠 Befehle",
                                 url="http://t.me/AiGroupManagerBot?start=help",
                             ),
                             InlineKeyboardButton(
-                                text="Support 📞",
+                                text="📞 Support",
                                 url="http://t.me/AstroSupportRobot",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
-                                text="Donations 💞",
+                                text="💞 Spenden",
                                 url="http://t.me/CollectDonationBot",
                             ),
                         ],
