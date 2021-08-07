@@ -87,13 +87,13 @@ Ich bin ein Bot, der möchte, dass Du weißt, dass diejenigen, die den wahren Sc
 Ich helfe Administratoren, ihre Gruppen mit viel Zauberei zu verwalten! Sieh dir die folgenden Punkte an, um eine Vorstellung von einigen der Dinge zu erhalten, bei denen ich Ihnen helfen kann.
 
 
-*Main* commands available:
- • /help: PM's you this message.
- • /help <module name>: PM's you info about that module.
- • /donate: information on how to donate!
+*Verfügbare* Hauptbefehle:
+  • /help: PN an diese Nachricht.
+ • /help <Modulname>: Informationen zu diesem Modul per PN
+ • /donate: Informationen zum Spenden!
  • /settings:
-   • in PM: will send you your settings for all supported modules.
-   • in a group: will redirect you to pm, with all that chat's settings.
+   » in PN: sendet Dir Deine Einstellungen für alle unterstützten Module.
+   » in einer Gruppe: leitet Dich zu PN mit allen Einstellungen dieses Chats weiter.
 
 
 {}
