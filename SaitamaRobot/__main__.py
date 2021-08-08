@@ -241,7 +241,7 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="🛠 Befehle",
-                                url="http://t.me/AiGroupManagerBot?start=help",
+                                url="http://t.me/DeAstroBot?start=help",
                             ),
                             InlineKeyboardButton(
                                 text="📞 Support",
