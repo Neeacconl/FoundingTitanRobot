@@ -231,7 +231,7 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="👥 Gruppe",
-                                url=f"https://t.me/{SUPPORT_CHAT}",
+                                url=f"https://t.me/AigroupManager",
                             ),
                             InlineKeyboardButton(
                                 text="📣 Kanal",
