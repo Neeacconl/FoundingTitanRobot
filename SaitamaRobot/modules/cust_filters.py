@@ -602,7 +602,7 @@ Check `/markdownhelp` to know more!
 
 """
 
-__mod_name__ = "Auto-Replays"
+__mod_name__ = "📬 Auto-Antwort"
 
 FILTER_HANDLER = CommandHandler("filter", filters)
 STOP_HANDLER = CommandHandler("stop", stop_filter)
