@@ -151,7 +151,7 @@ file_help = file_help.replace(".py", "")
 file_helpo = file_help.replace("_", " ")
 
 
-__help__ = """
+__helpe__ = """
  ❍ /logo text :  Create your logo with your name
  ❍ /wlogo text :  Create your logo with your name
 
