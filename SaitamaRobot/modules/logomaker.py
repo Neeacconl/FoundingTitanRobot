@@ -14,7 +14,7 @@ FONT_FILE_TO_USE = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
 
 #Add telegraph media links of profile pics that are to be used
 TELEGRAPH_MEDIA_LINKS = ["https://telegra.ph/file/e354ce72d5cc6a1d27c4d.jpg", 
-                         "https://telegra.ph/file/8f9ff3d743e6707a61489.jpg", 
+                         "https://telegra.ph/file/b3ff73c21da27b6b1b0e6.jpg", 
                          "https://telegra.ph/file/bfc97f4abc4bec6fe860d.jpg", 
                          "https://telegra.ph/file/5ef0f060023600ec08c19.jpg",
                          "https://telegra.ph/file/a448465a3a8a251170f76.jpg",
